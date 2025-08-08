@@ -1,0 +1,8 @@
+num_epochs: 5
+batch_size: 64
+z_dim: 100
+learning_rate: 0.0002
+lambda_iso: 1.0
+lambda_mmd: 0.1
+lambda_rank: 0.1
+experiment_epochs: 3
